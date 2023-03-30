@@ -1,0 +1,69 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Inside my Head</title>
+<!-- TemplateEndEditable -->
+<link href="file:///Macintosh HD/Users/erosado1559/Library/CloudStorage/OneDrive-CabarrusCountySchools/Digital Design/DreamWvr/Project03/assets/styles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/hbn4ewm.css">
+<link rel="stylesheet" href="https://use.typekit.net/hbn4ewm.css">
+<link rel="stylesheet" href="https://use.typekit.net/hbn4ewm.css">
+<!-- TemplateBeginEditable name="head" -->
+
+	<style type="text/css">
+	
+	#container {
+		height: 950px;
+	}
+	.submit_btn {
+    width: 160px;
+}	
+	.contact_aside {
+height: 615px;
+	}
+	main {
+margin-left: 160px;
+margin-top: -630px;
+height: 410px;
+	}
+	.buttons {
+    padding-left: 47px;
+	}
+</style>
+
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="container">
+  <header></header>
+  <nav>
+	<ul>
+<nav>
+	<ul class="borderpatrol">
+<li><a href="file:///Macintosh HD/Users/erosado1559/Library/CloudStorage/OneDrive-CabarrusCountySchools/Digital Design/DreamWvr/Project03/pages/about.html" class="buttons">About</a></li>
+<li><a href="file:///Macintosh HD/Users/erosado1559/Library/CloudStorage/OneDrive-CabarrusCountySchools/Digital Design/DreamWvr/Project03/pages/blog.html" class="buttons">Blog</a></li>
+<li><a href="file:///Macintosh HD/Users/erosado1559/Library/CloudStorage/OneDrive-CabarrusCountySchools/Digital Design/DreamWvr/Project03/pages/gallery.html" class="buttons">Gallery</a></li>
+<li><a href="file:///Macintosh HD/Users/erosado1559/Library/CloudStorage/OneDrive-CabarrusCountySchools/Digital Design/DreamWvr/Project03/pages/contact.html" class="buttons">Contact</a></li>
+    </ul>
+  </nav>
+    </ul>
+  </nav>
+  <!--Begin Floated Elements-->
+  <aside class="contact_aside">
+    <h3>I'm a man, a son, not a husband, a student, not a web developer, not a photographer, and I don't wear glasss.
+      Join me as I examine life through all of my nonexistent lenses.
+    By E. Rosado</h3>
+  </aside>
+  <!-- TemplateBeginEditable name="main-content" -->
+  <main>
+    <h1>Page Title</h1>
+  </main>
+  <!-- TemplateEndEditable -->  <!--End Floated Elements-->
+  <footer></footer>
+
+
+</div>
+</body>
+</html>
